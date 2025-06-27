@@ -19,7 +19,7 @@
             <button class="close-btn" onclick="window.location.href='<?php echo url('index.php'); ?>'" title="Close">
                 <i class="fas fa-times"></i>
             </button>
-            <h2><i class="fas fa-user-plus"></i> Create Account</h2>
+            <h3><i class="fas fa-user-plus"></i> Create Account</h3>
             <div class="subtitle">Add a new user to the system</div>
         </div>
 
